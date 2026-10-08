@@ -3,49 +3,28 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping shape Even Realities. One idea per post, please, and search first: if someone has already asked for this, upvote and comment there instead.
+        Thanks for helping shape Even Realities. Give your request a short title above, one idea per post, and search first: if someone has already asked for this, upvote and comment there instead.
   - type: textarea
-    id: goal
+    id: request
     attributes:
-      label: What are you trying to do?
-      description: Describe the problem or goal, not just the feature you have in mind. Sometimes there's a better way to get you there.
-      placeholder: "e.g. I want my app to show a glanceable status on the dashboard without the user opening it."
-    validations:
-      required: true
-  - type: textarea
-    id: blocker
-    attributes:
-      label: What's getting in the way, or what would make it better?
-      description: What happens today, and what would you like to happen instead?
+      label: Your request
+      description: Describe what you'd like us to build or improve, and why it matters to you.
     validations:
       required: true
   - type: dropdown
-    id: frequency
+    id: category
     attributes:
-      label: How often does this come up for you?
+      label: Category
       options:
-        - Every day
-        - A few times a week
-        - A few times a month
-        - Rarely, but it's a blocker when it does
-    validations:
-      required: true
-  - type: dropdown
-    id: area
-    attributes:
-      label: Which area is this about?
-      options:
-        - Even Hub Developer Platform & SDK
+        - G2 Hardware
+        - G1 Hardware
+        - R1 Ring
+        - Enterprise & Business
+        - Community & Events
+        - Monetization
+        - 3rd-Party Apps
+        - Hub Platform & SDK
         - Core Glasses Features
-        - Companion App & Connectivity
-        - G2 Glasses Hardware
-        - Other
+        - Companion App
     validations:
-      required: false
-  - type: textarea
-    id: context
-    attributes:
-      label: Anything else?
-      description: Your app, setup (device, phone, app and SDK versions), screenshots, or links that help explain the request.
-    validations:
-      required: false
+      required: true
