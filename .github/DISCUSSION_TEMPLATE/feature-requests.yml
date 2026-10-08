@@ -16,15 +16,15 @@ body:
     attributes:
       label: Category
       options:
-        - G2 Hardware
-        - G1 Hardware
-        - R1 Ring
+        - G2 Glasses Hardware
+        - G1 Glasses Hardware
+        - R1 Ring Hardware
         - Enterprise & Business
         - Community & Events
-        - Monetization
+        - Developer Monetization
         - 3rd-Party Apps
-        - Hub Platform & SDK
+        - Even Hub Developer Platform & SDK
         - Core Glasses Features
-        - Companion App
+        - Companion App & Connectivity
     validations:
       required: true
