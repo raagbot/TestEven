@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/banner.png" alt="Even Realities Feedback: request features for G2, R1, Even Hub and the SDK, and vote on what matters most" width="100%">
+  <img src=".github/banner.png" alt="Even Realities Feedback: request features for G2, R1, Even Hub and the SDK, and vote on what matters most" width="100%">
 </p>
 
 # Even Realities Feedback
