@@ -17,6 +17,8 @@ Every request lives in **[Discussions](../../discussions)**, where you can searc
 3. **Describe the problem, not just the solution.** Tell us what you're trying to do and what's in the way. Sometimes there's a better route than the feature you have in mind.
 4. **Vote and follow along.** Upvote the requests you care about, and subscribe to get notified when their status changes.
 
+Some early requests were posted by the Even Realities team on behalf of developers, to seed the board. They're tracked and voted on like any other request.
+
 See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full posting guide.
 
 ## What the statuses mean
