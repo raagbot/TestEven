@@ -21,6 +21,20 @@ Some early requests were posted by the Even Realities team on behalf of develope
 
 See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full posting guide.
 
+## Posting from an AI agent
+
+You can use an AI agent (Claude Code, Cursor, Copilot and others) to search, post, comment and upvote through the GitHub API or CLI, using your own GitHub account. Step-by-step instructions are in **[CONTRIBUTING.md](CONTRIBUTING.md#posting-from-an-ai-agent)**.
+
+> [!WARNING]
+> **Do not use agents to spam this board.** You are responsible for everything your agent posts under your account.
+> - **You must read and approve every post before it's submitted.** No unattended or scheduled posting.
+> - **Search first, every time.** Upvote or comment on an existing request instead of opening a new one.
+> - **One idea per post, no more than 3 new requests per person per day.** Don't bulk-post lists, brainstorms, logs or chat transcripts.
+> - **No auto-generated comments.** Use the 👍 reaction to show support instead of "+1" comments.
+> - **Add a disclosure line** at the end of agent-drafted posts: `Drafted with an AI agent and reviewed by @your-username`.
+>
+> We remove posts that break these rules, and accounts that repeatedly do so will be blocked from the board.
+
 ## What the statuses mean
 
 Each request carries a status label that we keep up to date.
