@@ -9,7 +9,7 @@ Thanks for helping shape Even Realities. This board works best when requests are
 - Upvote it with 👍. Votes are how we see what matters most.
 - Add a comment with your own use case, especially if it differs from the original post.
 
-Please don't open a duplicate. If you do, we'll close it and point you to the original so the votes add up in one place.
+Please don't open a duplicate. If you do, we'll label it **duplicate** and point you to the original so the votes add up in one place.
 
 **Check it's a feature request.** Bugs, support questions and general chat belong in [our Discord](https://discord.gg/RbQnqJUuM), where the team and community can help faster.
 
@@ -33,9 +33,15 @@ Screenshots, short videos and code snippets help, especially for developer reque
 ## What happens after you post
 
 1. Your request starts as **Under Review**.
-2. We read every post. We may ask follow-up questions in the comments, merge it with a similar request, or close it if it's a duplicate or out of scope.
-3. When we decide to build something, we change its label to **Planned**.
+2. We read every post. If we need details, we'll ask in the comments and label it **Need more Info**; please reply so we can keep it moving.
+3. When we decide to build something, it moves to **Planned**, then **In Progress** while our team works on it.
 4. When it's available, we mark it **Shipped** and link to the release notes or docs.
+
+Some requests end differently:
+
+- **Declined**: we've decided not to build it, and we'll explain why.
+- **Unable to Validate**: we couldn't confirm or reproduce what's described.
+- **duplicate**: it's already been requested, and we'll link the original.
 
 Subscribe to a request (the **Subscribe** button on the right of the page) to get notified when its status changes.
 

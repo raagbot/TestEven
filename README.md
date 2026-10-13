@@ -26,8 +26,13 @@ Each request carries a status label that we keep up to date.
 | Label | What it means |
 |---|---|
 | **Under Review** | New, or we're still assessing it. Every request starts here. |
-| **Planned** | We've decided to build it. Timing may still change. |
-| **Shipped** | It's available. The request will link to the release or docs. |
+| **Need more Info** | We've asked a question in the comments. Reply so we can assess it. |
+| **Planned** | It's on our roadmap. Timing may still change. |
+| **In Progress** | Our team is actively working on it. |
+| **Shipped** | It's available. We'll link the release notes or docs. |
+| **Declined** | We won't build this. We'll explain why in a comment. |
+| **Unable to Validate** | We couldn't confirm or reproduce what's described. |
+| **duplicate** | Already requested. We'll link the original so votes add up in one place. |
 
 Votes help us prioritize, but they aren't the only factor; we also weigh feasibility, our roadmap and how many people a change helps.
 
@@ -51,7 +56,7 @@ When you post, pick the area your request is about:
 - Core Glasses Features
 - Companion App & Connectivity
 - Even Hub Developer Platform & SDK
-- 3rd-Party Apps
+- Third-Party Apps & Discovery
 - Developer Monetization
 - Enterprise & Business
 - Community & Events
