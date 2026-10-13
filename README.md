@@ -8,7 +8,7 @@ This is where you tell us what to build next for Even Realities: the G2 and G1 g
 
 Every request lives in **[Discussions](../../discussions)**, where you can search what others have asked for, upvote it and add your own use case. The most-requested ideas rise to the top, and we update each one as it moves forward.
 
-**[Browse requests →](../../discussions)**  ·  **[Post a new request →](../../discussions/new/choose)**
+**[Browse requests →](../../discussions)**  ·  **[Post a new request →](../../discussions/new/choose)**  ·  **[Developer docs →](https://hub.evenrealities.com/docs/get-started/quickstart/)**
 
 ## How it works
 
@@ -36,6 +36,7 @@ Votes help us prioritize, but they aren't the only factor; we also weigh feasibi
 | You want to… | Go to |
 |---|---|
 | Request a feature or improvement | **[Discussions](../../discussions)** (this board) |
+| Start building apps for G2 | **[Even Hub developer docs](https://hub.evenrealities.com/docs/get-started/quickstart/)** |
 | Report a bug, get help, or chat with other users and developers | **[Our Discord](https://discord.gg/RbQnqJUuM)** |
 | Learn about Even Realities products | **[evenrealities.com](https://www.evenrealities.com)** |
 | Report a security vulnerability | Please don't post it publicly. Contact the team privately instead. |
