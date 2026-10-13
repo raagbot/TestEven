@@ -42,9 +42,10 @@ Votes help us prioritize, but they aren't the only factor; we also weigh feasibi
 |---|---|
 | Request a feature or improvement | **[Discussions](../../discussions)** (this board) |
 | Start building apps for G2 | **[Even Hub developer docs](https://hub.evenrealities.com/docs/get-started/quickstart/)** |
-| Report a bug, get help, or chat with other users and developers | **[Our Discord](https://discord.gg/RbQnqJUuM)** |
+| Report a bug or get help | **[Even Realities Support](https://support.evenrealities.com/hc/en-us)** or **[support@evenrealities.com](mailto:support@evenrealities.com)** |
+| Chat with other users and developers | **[Our Discord](https://discord.gg/RbQnqJUuM)** |
 | Learn about Even Realities products | **[evenrealities.com](https://www.evenrealities.com)** |
-| Report a security vulnerability | Please don't post it publicly. Contact the team privately instead. |
+| Report a security vulnerability | Please don't post it publicly. Email **[support@evenrealities.com](mailto:support@evenrealities.com)** instead. |
 
 ## Request categories
 

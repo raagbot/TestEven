@@ -11,7 +11,7 @@ Thanks for helping shape Even Realities. This board works best when requests are
 
 Please don't open a duplicate. If you do, we'll label it **duplicate** and point you to the original so the votes add up in one place.
 
-**Check it's a feature request.** Bugs, support questions and general chat belong in [our Discord](https://discord.gg/RbQnqJUuM), where the team and community can help faster.
+**Check it's a feature request.** For bugs and support, go to [Even Realities Support](https://support.evenrealities.com/hc/en-us) or email [support@evenrealities.com](mailto:support@evenrealities.com), where the support team can help faster. For general chat with other users and developers, join [our Discord](https://discord.gg/RbQnqJUuM).
 
 ## Writing a good request
 
@@ -52,7 +52,7 @@ Votes are an important signal, but we also weigh feasibility, our roadmap and ho
 - Be respectful. Critique ideas, not people.
 - Stay on topic. Keep comments about the request in the thread.
 - No spam, self-promotion or sharing private information.
-- Don't post security vulnerabilities publicly; contact us privately instead.
+- Don't post security vulnerabilities publicly; email [support@evenrealities.com](mailto:support@evenrealities.com) instead.
 
 We'll edit or remove posts that break these guidelines.
 
